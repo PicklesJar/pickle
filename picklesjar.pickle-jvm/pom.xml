@@ -146,6 +146,16 @@
 		
 		<dependency>
 			<groupId>picklesjar</groupId>
+			<artifactId>brine.base</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>picklesjar</groupId>
+			<artifactId>brine.ut</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>picklesjar</groupId>
 			<artifactId>picklerecipes.ut</artifactId>
 			<version>${project.version}</version>
 		</dependency>
