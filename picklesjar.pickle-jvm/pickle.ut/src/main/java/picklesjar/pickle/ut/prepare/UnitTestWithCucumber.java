@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 import picklesjar.brine.autodev.annotation.DevelopmentTrigger;
-import picklesjar.brine.ut.autodev.developers.TestTargetMethodConfigurationClassDeveloper;
+import picklesjar.pickle.ut.prepare.developer.TestTargetMethodConfigurationClassDeveloper;
 
 /**
  * 
